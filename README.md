@@ -2,12 +2,6 @@
 
 专注技术实践、系统搭建与工具沉淀。这里记录项目、文章、工具与持续优化过程
 
-## Links
-
-- [个人主页](https://me.aweqy.top/)
-- [一些文章](https://me.aweqy.top/guide)
-- [联系方式](https://me.aweqy.top/contact)
-- [CSDN](https://blog.csdn.net/AweQY)
 
 
 ## Tech Stack
